@@ -318,6 +318,10 @@
     "LanguageSwitch": {
       "displayText": "Lingua:\n IT    Italiano",
       "description": ""
+    },
+    "SolderingTipType": {
+      "displayText": "Soldering\nTip Type",
+      "description": "Select the tip type fitted"
     }
   }
 }
